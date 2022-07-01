@@ -1,0 +1,167 @@
+Parei em HARDWARE
+
+#1: <OpenRT>@ (HTML|REACT|VUE|ANGULAR) Um editor com formatação Rich-Text
+Ter a opção de escolher a versão: HTML|REACT|VUE|ANGULAR
+OBS: Ter CI/CD (github action), tests
+
+
+#2: <Monitorfy>@ (React|Sass|NodeJS|nginx) Um monitor para sua atividade de CPU e processos de um servidor
+OBS: Ter CI/CD (github action), tests
+Falta:
+	- terminar de back
+
+
+#3: <BluePlay>@ (Python|Django|docker) Um Clone do Apple Music ou Spotify
+Verficar posibilidade de colocar musica, imagem e midia no banco 
+OBS: Ter CI/CD (github action), tests
+Falta:
+	- front
+	- terminar de re-lembrar django
+	- estudar o repositorio de pacotes do python / tentar achar algo com musica util pro projeto
+
+
+#4: <GoalsCalendar>@ (angular|spring|Jenkins|AWS) Um Calendário: usar UTC e converter pra local
+OBS: Ter CI/CD (github action), tests
+Falta:
+	-
+
+
+#5: <> () Mostrar e filtrar repositórios no Github : REST : graphQL : Throttling ou debounce 
+OBS: Ter CI/CD (github action), tests
+
+
+#6: <> () sistema que consuma uma API externa : testes End-to-End (E2E)
+OBS: Ter CI/CD (github action), tests
+
+
+#7: <MyCatalog>@ (HTML|REACT|VUE|ANGULAR|GoLang) Uma página de catálogo: com grid css e flex css
+Ter a opção de escolher a versão: HTML|REACT|VUE|ANGULAR
+OBS: Ter CI/CD (github action), tests
+Falta:
+	-
+
+
+#8: <ChrisEcommerce>@ (Tailwind|handlebars|nodejs|mongo) Programar um E-commerce
+OBS: Ter CI/CD (github action), tests
+
+
+#9: <Portfolio>@ (React) O seu próprio portfólio
+
+
+#10: <Naruto World>@ (undefined) Crie seu próprio jogo multiplayer : testar design patters
+
+
+#11: <VideoPlayer>@ (JS|JQUERY|REACT|VUE|ANGULAR) Video player personalizado
+OBS: Ter CI/CD (github action), tests
+
+
+#12: <CalcTips>@ (Angular) Calculadora de gorjetas
+
+
+[DONE]#13: <Kuizu>@ (Vue) Quiz
+
+
+#14: <Jokenpo>@ (Angular) Pedra Papel Tesoura
+
+
+#15: <Notes>@ (MOBILE) App de notas
+
+
+#16: <Stopwatch>@ (MOBILE) App de cronometro
+
+
+#17: <QRCodeManager>@ (node.js) leitor/criador de QR code
+
+
+#18: <HowIsTheWeather>@ (MOBILE) App de clima
+
+
+#19: <GenPassword>@ (flask) Gerador de Senhas // https://nodejs.org/dist/latest-v16.x/docs/api/crypto.html
+
+
+#20: <TicTacToe>@ (Canvas) Jogo Tic Tac Toe (jogo da velha)
+
+
+#21: <LinkShortener>@ (flask) Encurtador de link
+
+
+#22: <CChat>@ (Typescript, React, socket.io) Chat
+
+
+#23: <WhoToVote>@ (MOBILE) App de pesquisa de inteñção de voto
+
+
+#24: <C-Book>@ (HTML) Leitor de E-BOOK
+
+
+#25: <Armazen>@ (Django) Serviço de armazenamento
+
+
+#26: <> (HTML, SCSS) Site com parallax - https://www.youtube.com/watch?v=1wfeqDyMUx4&ab_channel=OnlineTutorials
+
+
+#27: <C-Tracking>@ (????) App e site de rastreio
+
+
+#28: <GaleryOfNFT>@ (Django) Galeria de NFT
+
+
+#29: <QuotesApp>@ (Dashboard, express) App de cotações
+
+
+#30: <ChrisBallCrusher>@ (HTML, JS, WEBPACK, PARCEL) Ball Crusher
+
+
+#31: <> (????) Manipulação de video e audio
+
+
+#32: <> (????) Manipulação de arquivo
+
+
+#33: <> (Python) Aplicação com leitura de voz
+
+
+
+Outros projetos meus:
+privatizeja-back@
+privatizeja-next@
+MPA@
+Free-Design-Pages@
+Kutz@
+ChristianOliveiraSilva (perfil no github)@
+força-em-rede@
+força-em-rede-app@
+MineCraft-In-CPP@
+CustomizableLayout@
+boilerplate
+natural-life@
+
+
+
+
+A se pensar:
+lint, debugger
+Uma repo com design patters e exemplos
+criar um sistema q pega videos e os transforma em videos de 30s para postar no status!
+criar boilerplate
+criar uma extensao para VS CODE
+criar uma extensao para browser
+alguma coisa que possa ser baixada com APT-GET
+Algum projeto com ELECTRON
+um sistema q le o banco e passa para migrations
+algo q use RTL
+algo que use push-notification
+File realtime manager -> mexeu manda pro servidor
+verificador de ações da bolsa!
+Projeto que gere pacote no NPM
+projeto open source de relevancia
+copias de marcas
+
+
+
+Verificar Serviços para fazer integrações:
+- Pagar.me
+- facebook, instagram
+- Correios
+- B3
+- Google Drive
