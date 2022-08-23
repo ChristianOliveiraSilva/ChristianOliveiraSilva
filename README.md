@@ -1,6 +1,5 @@
 ## Hi there! I'm Christian Oliveira 👋
 
-- 🔭 I’m currently working on Hyperlocal with Yii, Laravel and Angular
 - 🌱 I’m currently learning How to Improve my Code
 - 👩🏻‍💻 I'm fullstack - I love CSS as well as PHP [Don't try to ask me my favorite programming language]
 - ⚡ Fun fact: I'm going to learn to fly planes
