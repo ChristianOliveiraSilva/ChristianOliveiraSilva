@@ -84,7 +84,3 @@ Almost my projects I'm trying to use a Pipelines with Tests. Some projects have 
 
 - **ChrisBallCrusher**: (HTML, JS, WEBPACK, PARCEL) A Ball Crusher
 
-
-## My close projects
-
-❌ Waiting for authorization to post them here
