@@ -1,6 +1,6 @@
 ## Hi there! I'm Christian Oliveira 👋
 
-- 👩🏻‍💻 Fullstack at IA solutions
+- 👩🏻‍💻 Fullstack at AIsolutions
 - 💻 Owner of COSSoftware
 - 🟢🟡 🇧🇷  Brazil
 - 😄 Pronouns: he/him
